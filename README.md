@@ -2,11 +2,11 @@
 
 
 <!-- Badges -->
-![Validation Accuracy](https://gist.github.com/ashokpal122/51cdf26f1ab6406d9e3345a8dcc8b378/raw/a981106ac351d4eb5479f9ee84caf6f782bf702b/accuracy.json)
-![Best Trial](https://gist.github.com/ashokpal122/51cdf26f1ab6406d9e3345a8dcc8b378/raw/a981106ac351d4eb5479f9ee84caf6f782bf702b/trial.json)
-![Epochs](https://gist.github.com/ashokpal122/51cdf26f1ab6406d9e3345a8dcc8b378/raw/a981106ac351d4eb5479f9ee84caf6f782bf702b/epoc.json)
-![PyTorch](https://gist.github.com/ashokpal122/51cdf26f1ab6406d9e3345a8dcc8b378/raw/a981106ac351d4eb5479f9ee84caf6f782bf702b/pytorch.json)
-![Optuna](https://gist.github.com/ashokpal122/51cdf26f1ab6406d9e3345a8dcc8b378/raw/a981106ac351d4eb5479f9ee84caf6f782bf702b/optuna.json)
+![Validation Accuracy](https://img.shields.io/badge/Validation_Accuracy-72.62%25-brightgreen)
+![Best Trial](https://img.shields.io/badge/Best_Trial-3_Layers-blue)
+![Epochs](https://img.shields.io/badge/Epochs-30-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.1-red?logo=pytorch&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-3.1-purple)
 
 
 ---
