@@ -1,6 +1,14 @@
 # 🚀 Neural Architecture Search for CIFAR-10 Classification Using Optuna
 
 
+<!-- Badges -->
+![Validation Accuracy](https://gist.github.com/ashokpal122/51cdf26f1ab6406d9e3345a8dcc8b378/raw/a981106ac351d4eb5479f9ee84caf6f782bf702b/accuracy.json)
+![Best Trial](https://gist.github.com/ashokpal122/51cdf26f1ab6406d9e3345a8dcc8b378/raw/a981106ac351d4eb5479f9ee84caf6f782bf702b/trial.json)
+![Epochs](https://gist.github.com/ashokpal122/51cdf26f1ab6406d9e3345a8dcc8b378/raw/a981106ac351d4eb5479f9ee84caf6f782bf702b/epoc.json)
+![PyTorch](https://gist.github.com/ashokpal122/51cdf26f1ab6406d9e3345a8dcc8b378/raw/a981106ac351d4eb5479f9ee84caf6f782bf702b/pytorch.json)
+![Optuna](https://gist.github.com/ashokpal122/51cdf26f1ab6406d9e3345a8dcc8b378/raw/a981106ac351d4eb5479f9ee84caf6f782bf702b/optuna.json)
+
+
 ---
 
 ## 📌 Executive Summary
