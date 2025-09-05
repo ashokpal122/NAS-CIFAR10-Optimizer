@@ -70,12 +70,15 @@ X_\text{norm} = \frac{X - \mu}{\sigma}, \quad \mu = 0.5, \sigma = 0.5
 - Class distributions visualized to ensure balance.
 
 ![Class Distribution](https://github.com/ashokpal122/NAS-CIFAR10-Optimizer/blob/main/figure/images/class%20distridution%20in%20cifar-10.png)
+
 *Figure 1: Class distribution in dataset.*
 
 ![Train Class Distribution](https://github.com/ashokpal122/NAS-CIFAR10-Optimizer/blob/main/figure/images/training%20set.png)
+
 *Figure 2: Training set distribution.*
 
 ![Validation Class Distribution](https://github.com/ashokpal122/NAS-CIFAR10-Optimizer/blob/main/figure/images/validation%20set.png)
+
 *Figure 3: Validation set distribution.*
 
 ---
@@ -129,6 +132,7 @@ Where:
 - Sample 5×5 grid demonstrates **class diversity**.
 
 ![Sample Images](https://github.com/ashokpal122/NAS-CIFAR10-Optimizer/blob/main/figure/images/cifar10%20sample%20data.png)
+
 *Figure 4: Sample images.*
 
 ---
@@ -147,18 +151,23 @@ Where:
 - Kernel size least significant  
 
 ![Optimization History](https://github.com/ashokpal122/NAS-CIFAR10-Optimizer/blob/main/figure/images/optimization%20history%20plot.png)
+
 *Figure 5: Optuna optimization history.*
 
 ![Intermediate Values](https://github.com/ashokpal122/NAS-CIFAR10-Optimizer/blob/main/figure/images/intermediate%20values%20plot.png)
+
 *Figure 6: Intermediate values.*
 
 ![Hyperparameter Importance](https://github.com/ashokpal122/NAS-CIFAR10-Optimizer/blob/main/figure/images/Hyperperameter%20importance.png)
+
 *Figure 7: Hyperparameter importance.*
 
 ![Parallel Coordinate](https://github.com/ashokpal122/NAS-CIFAR10-Optimizer/blob/main/figure/images/parallel%20coordinate%20plote.png)
+
 *Figure 8: Parallel coordinate plot.*
 
 ![Slice Plot](https://github.com/ashokpal122/NAS-CIFAR10-Optimizer/blob/main/figure/images/slice%20plot.png)
+
 *Figure 9: Slice plot.*
 
 ---
@@ -168,6 +177,7 @@ Where:
 - Training accuracy: ~78%, Validation accuracy: ~73%
 
 ![Training Curve](https://github.com/ashokpal122/NAS-CIFAR10-Optimizer/blob/main/figure/images/training%20curve.png)
+
 *Figure 10: Training curve.*
 
 ---
@@ -177,9 +187,11 @@ Where:
 - **Confusion Matrix:** Class-wise performance
 
 ![Classification Report](https://github.com/ashokpal122/NAS-CIFAR10-Optimizer/blob/main/figure/images/classification%20report.png)
+
 *Figure 11: Classification report.*
 
 ![Confusion Matrix](https://github.com/ashokpal122/NAS-CIFAR10-Optimizer/blob/main/figure/images/confusion%20matrix.png)
+
 *Figure 12: Confusion matrix.*
 
 ---
